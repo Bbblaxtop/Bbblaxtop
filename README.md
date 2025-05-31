@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Send message in Discord,Telegram
-- 😄 Pronouns: salat20,salo20,finlandSalo
-- ⚡ Fun fact: Im not from Finland,Im live in Russia
+- 😄 Pronouns: solid9090,solidBlue,solid
+- ⚡ Fun fact: ...
 
 <!---
 Bbblaxtop/Bbblaxtop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
