@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Send message in Discord,Telegram
-- 😄 Pronouns: solid9090,solidBlue,solid
+- 😄 Pronouns: he,him
 - ⚡ Fun fact: ...
 
 <!---
